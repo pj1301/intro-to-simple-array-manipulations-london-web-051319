@@ -35,3 +35,10 @@ end
 def using_uniq(array)
   array_uniq()
 end
+
+def using_flatten(array)
+  array.flatten()
+end
+
+
+  
