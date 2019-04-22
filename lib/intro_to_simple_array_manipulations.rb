@@ -11,3 +11,7 @@ end
 def using_pop(array, string)
   array.pop()
 end
+
+def using_pop(array, num)
+  array.pop(num)
+end
